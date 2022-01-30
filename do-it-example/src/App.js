@@ -1,13 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import ChildComponent from './03/ChildComponent';
+import React from 'react';
+import Say from './03/Say';
 
-function App() {
-  return (
-    <ChildComponent
-      boolValue={true}
-    />
-  );
+const App = () => {
+  return <Say/>;
 }
 
 export default App;
