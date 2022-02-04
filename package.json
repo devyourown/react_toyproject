@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "node-sass": "^7.0.1",
+    "react-virtualized": "^9.22.3",
     "style-components": "^0.1.0"
   }
 }
