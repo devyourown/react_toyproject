@@ -1,5 +1,6 @@
 yarn create react-app <project-name> :
     리액트 프로젝트 생성
+npm init react-app <project-name>
 
 프로덕션 모드로 구동한다면:
     yarn build
